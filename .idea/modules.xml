@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Pattern2.iml" filepath="$PROJECT_DIR$/Pattern2.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Pattern.iml" filepath="$PROJECT_DIR$/Pattern.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Basics.iml" filepath="$PROJECT_DIR$/Basics.iml" />
+>>>>>>> 53cdefbb0518b943535494a2df76d58b5c7dafec
+>>>>>>> 3c5902a51bc695d63124db52cf30fc0953681ee6
     </modules>
   </component>
 </project>
